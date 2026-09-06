@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmednabil550"><img src="https://img.shields.io/badge/Ahmed%20Nabil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/profile.php?id=100007564273446"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
