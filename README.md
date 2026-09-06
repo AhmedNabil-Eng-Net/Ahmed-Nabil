@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Nabil  👋</h1>
 <h3 align="center">Software Engineer 👷‍♂️ | Programming Instructor 👨‍🏫
-<h4 align="center">--------------------------------------------------------------
+<h4 align="center">--------------------------------------------
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmednabil550"><img src="https://img.shields.io/badge/Ahmed%20Nabil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
