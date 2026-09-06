@@ -34,7 +34,7 @@ class AhmedNabil {
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=python,cpp,java,kotlin,php,vscode,github,figma,git" />
+  <img src="[https://skillicons.dev/icons?i=py,cpp,java,kotlin,php,vscode,github,git,linux,figma" />
 </p>
 
 ---
