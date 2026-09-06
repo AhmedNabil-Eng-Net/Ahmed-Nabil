@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer 👷‍♂️ | Programming Instructor 👨‍🏫
 
 <p align="center">
+  -------------------------------
   <a href="https://linkedin.com/in/ahmednabil550"><img src="https://img.shields.io/badge/Ahmed%20Nabil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
