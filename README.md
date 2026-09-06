@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed Nabil  👋</h1>
+<h3 align="center">----------------------------
 <h3 align="center">Software Engineer 👷‍♂️ | Programming Instructor 👨‍🏫
 
 <p align="center">
