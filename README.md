@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer 👷‍♂️ | Programming Instructor 👨‍🏫
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmednabil550"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahmednabil550"><img src="https://img.shields.io/badge/Ahmed%20Nabil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://facebook.com/profile.php?id=100007564273446"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
@@ -17,7 +17,7 @@ class AhmedNabil {
   role = "Software Engineer & Programming Instructor"
   language = "Arabic"
   List<String> skills = [
-    "Python, Java, C++, PHP, Scratch, Pitcoblox",
+    "Python, C++, Java, kotlin, PHP, Scratch, Pitcoblox",
     "GitHub & Copilot",
     "Simplify Code"
   ]
@@ -42,25 +42,11 @@ class AhmedNabil {
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedNabil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNabil&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 ---
-
-## 🎬 My YouTube Focus
-
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
-
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
-
----
-
-
 
 ## ⚡️ Motto
 
