@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed Nabil 👋</h1>
 
 <h3 align="center">
-Software Engineer 👨‍💻 | Programming Instructor 👨‍🏫 | Network Engineer 🌐
+Programming Instructor 👨‍💻 | Network Engineer 🌐
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@ Software Engineer 👨‍💻 | Programming Instructor 👨‍🏫 | Network Eng
 
 ```python
 class AhmedNabil:
-    role = "Software Engineer & Programming Instructor & Network Engineer"
+    role = "Programming Instructor & Network Engineer"
     focus = [
         "Python",
         "Software Development",
