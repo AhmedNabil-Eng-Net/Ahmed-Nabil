@@ -19,6 +19,9 @@ class AhmedNabil:
     role = "Programming Instructor & Network Engineer"
     focus = [
         "Python",
+        "C++",
+        "Java",
+        "PHP",
         "Software Development",
         "Networking",
         "Cybersecurity"
