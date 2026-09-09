@@ -49,7 +49,7 @@ I enjoy building practical projects, learning new technologies, and making progr
 ### 💻 Programming & Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,kotlin,php,git,github,vscode,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,kotlin,php,git,github,vscode,linux,figma" />
 </p>
 
 ### 🌐 Networking & Cybersecurity
